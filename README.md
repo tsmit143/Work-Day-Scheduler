@@ -8,5 +8,9 @@ AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 
+Click[here](https://tsmit143.github.io/Work-Day-Scheduler/)
+
+![Screenshot](./Assets/Screenshot%202023-12-17%20at%207.49.36%20PM.png)
 
 # License
+[MIT](https://choosealicense.com/licenses/mit/)
